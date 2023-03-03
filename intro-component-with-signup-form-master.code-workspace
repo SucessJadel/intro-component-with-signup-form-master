@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": ".."
+	},
+	{
+		"path": "../../../Desktop/tutorial"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "tutorial"
+  }
+}
